@@ -29,11 +29,11 @@ BatcherV2.sol 只在 BatcherV1.sol的基础上
 
 ### BatcherV0.sol
 create创建合约
-![]()
+![](https://github.com/Cat2Boy/BatchMinter/blob/master/img/V0.png?raw=true)
 ### BatcherV1.sol
 汇编create2创建合约
-![]()
+![](https://github.com/Cat2Boy/BatchMinter/blob/master/img/V1.png?raw=true)
 
 ### BatcherV3.sol
 汇编create2创建合约，调用方法和参数以call data方式通过js脚本传入
-![]()
+![](https://github.com/Cat2Boy/BatchMinter/blob/master/img/V3.png?raw=true)
