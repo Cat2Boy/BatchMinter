@@ -27,6 +27,8 @@ BatcherV2.sol 只在 BatcherV1.sol的基础上
 
 # gas费消耗对比
 
+10个账号的对比，大批量下miniproxy消耗gas费更少
+
 ### BatcherV0.sol
 create创建合约
 ![](https://github.com/Cat2Boy/BatchMinter/blob/master/img/V0.png?raw=true)
